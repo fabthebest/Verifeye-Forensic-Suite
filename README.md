@@ -9,7 +9,6 @@ Verifeye is a disruptive deepfake detection engine. Unlike standard AI, it uses 
 3. **Temporal Jitter:** Analyzes frame-to-frame movement stability.
 
 ## 📊 Performance Benchmark
-## 📊 Performance Benchmark
 - **Authentic Baseline:** 96.33% Authenticity (Natural Noise Floor)
 - **Deepfake Catch Rate:** 100% (Identified as 0% Authentic due to AI artifacts)
 - **Privacy:** 100% Local processing.
