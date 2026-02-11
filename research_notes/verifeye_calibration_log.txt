@@ -1,0 +1,5 @@
+Verifeye Calibration Log - 2026
+--------------------------------
+Baseline Spectral Noise: 3200
+Target Accuracy: 96.33%
+Status: Physics-Engine Calibrated.
